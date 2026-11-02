@@ -1,2 +1,2 @@
 # Journal
-Write your Journal questions and notes here.
+Im having problems with my IDLE, ALERT, and Patrolling. When I run it, it says its not a field.
